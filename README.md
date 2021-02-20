@@ -17,9 +17,9 @@ You're sections headers will be used to reference location of destinations.
 
 ### Orignal Picture
 <img src="https://github.com/Tarun-yadav777/Face_Eye_Detection/blob/main/static/lena.jpg"  width="250" height="250" /><br>
-#### Road Lane Detected Picture
+#### Face Detected Picture
 <img src="https://github.com/Tarun-yadav777/Face_Eye_Detection/blob/main/static/face.PNG"  width="250" height="250" /><br>
-#### Road Lane Detected Picture
+#### Face & Eyes Detected Picture
 <img src="https://github.com/Tarun-yadav777/Face_Eye_Detection/blob/main/static/face%26eye.PNG"  width="250" height="250" /><br>
 
 
